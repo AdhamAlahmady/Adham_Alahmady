@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-Hi! I'm **Adham Mahmoud (a.k.a Dooma)** – a passionate **Machine Learning Engineer** with a strong interest in turning data into smart, automated solutions.  
+Hi! I'm **Adham Ebraheem** – a passionate **Machine Learning Engineer** with a strong interest in turning data into smart, automated solutions.  
 
 🎯 Currently working as an **ML Engineer**, focused on building intelligent systems using real-world data  
 💡 I'm deeply passionate about **Data Analysis**, **Model Development**, and **AI-powered decision making**
@@ -10,7 +10,6 @@ Hi! I'm **Adham Mahmoud (a.k.a Dooma)** – a passionate **Machine Learning Engi
 ## 🧰 Tech Stack
 
 - **🐍 Python** – NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  
-- **📊 Power BI** – Dashboards and visual insights  
 - **🧠 SQL** – Data extraction, transformation, and analysis  
 - **📦 Machine Learning** – Classification, Regression, Ensemble Models, PCA, etc.  
 - **🖥️ Tools** – Jupyter, Colab, Flask, Tkinter, Git  
@@ -39,10 +38,9 @@ Hi! I'm **Adham Mahmoud (a.k.a Dooma)** – a passionate **Machine Learning Engi
 
 ## 🎓 Certifications
 
-- 📜 **Google Data Analytics Professional Certificate** – Coursera  
-- 📜 **Python for Data Science** – IBM  
-- 📜 **SQL for Data Analysis** – Udacity  
-- (Add more if you have any, like Deep Learning Specialization, ML by Stanford, etc.)
+- 📜 **Supervised Machine Learning: Regression and Classification ** – Coursera  
+- 📜 **Python ** – Kaggle  
+- 📜 **Database Fundamentals ** – MaharaTech  
 
 ---
 
@@ -50,10 +48,8 @@ Hi! I'm **Adham Mahmoud (a.k.a Dooma)** – a passionate **Machine Learning Engi
 
 Let’s connect!
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 🐙 GitHub: [github.com/your-username](https://github.com/your-username)  
-- 🌐 Portfolio (if available): [your-website.com](https://your-website.com)
+- 📧 Email: Alahmadydesktop@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/Adham Ebrahem](www.linkedin.com/in/adham-ebrahem-b45937299)  
 
 ---
 
