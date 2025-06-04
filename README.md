@@ -49,7 +49,7 @@ Hi! I'm **Adham Ebraheem** – a passionate **Machine Learning Engineer** with a
 Let’s connect!
 
 - 📧 Email: Alahmadydesktop@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/Adham Ebrahem](www.linkedin.com/in/adham-ebrahem-b45937299)  
+- 💼 LinkedIn: [linkedin.com/in/adham-ebrahem-b45937299](www.linkedin.com/in/adham-ebrahem-b45937299)  
 
 ---
 
